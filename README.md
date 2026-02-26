@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  Tenho 17 anos e sou desenvolvedor front-end de Guarulhos, São Paulo 🇧🇷.<br><br>
+  Tenho 18 anos e sou desenvolvedor front-end de Guarulhos, São Paulo 🇧🇷.<br><br>
   Sou apaixonado por tecnologia, design e inovação, e gosto de transformar ideias em projetos digitais criativos. 
   Atualmente, me dedico ao estudo de <b>React, Next.js, TailwindCSS</b> e integração com APIs para criar aplicações modernas e responsivas.<br><br>
   Também sou fundador da <b>Bleya</b>, uma iniciativa focada em criar designs e soluções digitais personalizadas para empresas.  
